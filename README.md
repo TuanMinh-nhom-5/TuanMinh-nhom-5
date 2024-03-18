@@ -3,7 +3,7 @@
 ## Đề tài : Thiết kế web bán hàng 
 #### Nội dung trang web gồm:
 - Thiết kế trang home page , shop page , detail product, checkout
-- Api về điện thoại, đồng hồ thông minh , quần áo, mũ ,...
+- nội dung và tư vấn về các loại sách
 
 #### Thành viên trong nhóm
 - Lê Tuấn Minh ( 2022605662 ) **( Nhóm trưởng )** : thiết kế trang web cùng các thành viên
