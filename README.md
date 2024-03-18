@@ -1,5 +1,5 @@
 # thiet_ke_website_ban_hang
-# Bài tập lớn nhóm 8 (2HLTV)
+# Bài tập lớn nhóm 5 
 ## Đề tài : Thiết kế web bán hàng 
 #### Nội dung trang web gồm:
 - Thiết kế trang home page , shop page , detail product, checkout
